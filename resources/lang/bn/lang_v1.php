@@ -553,7 +553,7 @@ return [
     'product_description' => 'প্রোডাক্ট বর্ণনা',
     'click_here' => 'এখানে ক্লিক করুন',
     'for_more_info' => 'আরও তথ্যের জন্য',
-    'username_help' => 'Leave blank to auto generate username',
+    'username_help' => 'ইউজারনেইম অটো জেনারেট করতে খালি রাখুন',
     'status_for_user' => 'Is active ?',
     'tooltip_enable_user_active' => 'Check/Uncheck to make a user active/inactive.',
     'user_inactive' => 'Sorry, account is inactive',
