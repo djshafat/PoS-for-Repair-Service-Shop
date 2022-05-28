@@ -8,7 +8,7 @@ return [
     |--------------------------------------------------------------------------
     */
 
-    'restaurant' => 'Restaurant',
+    'restaurant' => 'রেস্টুরেন্ট',
     'tables' => 'Tables',
     'table' => 'Table',
     'manage_your_tables' => 'Manage restaurant tables',

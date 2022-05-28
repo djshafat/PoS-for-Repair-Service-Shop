@@ -11,18 +11,18 @@ return [
     |
     */
 
-    'product' => 'Product',
-    'qty' => 'Quantity',
-    'unit_price' => 'Unit Price',
-    'subtotal' => 'Subtotal',
-    'discount' => 'Discount',
-    'tax' => 'Tax',
-    'total' => 'Total',
-    'invoice_number' => 'Invoice No.',
-    'date' => 'Date',
-    'receipt_settings' => 'Receipt Settings',
-    'receipt_settings_mgs' => 'All receipt related settings for this location',
-    'print_receipt_on_invoice' => 'Auto print invoice after finalizing',
-    'receipt_printer_type' => 'Receipt Printer Type',
-    'receipt_settings_updated' => 'Receipt Setting updated succesfully'
+    'product' => 'পণ্য',
+    'qty' => 'পরিমাণ',
+    'unit_price' => 'ইউনিট প্রাইস',
+    'subtotal' => 'সাবটোটাল',
+    'discount' => 'ডিসকাউন্ট',
+    'tax' => 'ট্যাক্স',
+    'total' => 'মোট',
+    'invoice_number' => 'ইনভয়েস নাম্বার',
+    'date' => 'তারিখ',
+    'receipt_settings' => 'রিসিপ্ট সেটিংস',
+    'receipt_settings_mgs' => 'এই লোকেশনের জন্য সকল ধরনের রিসিপ্ট সেটিংস',
+    'print_receipt_on_invoice' => 'সেল ফাইনাল হওয়ার পর অটো রিসিপ্ট প্রিন্ট করুন',
+    'receipt_printer_type' => 'রিসিপ্ট প্রিন্টারের ধরন',
+    'receipt_settings_updated' => 'রিসিপ্ট সেটিংস আপডেট করা হয়েছে',
 ];
