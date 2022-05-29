@@ -11,20 +11,20 @@ return [
     |
     */
 
-    'stock_adjustment' => 'Stock Adjustment',
-    'stock_adjustments' => 'Stock Adjustments',
-    'list' => 'List Stock Adjustments',
-    'add' => 'Add Stock Adjustment',
-    'all_stock_adjustments' => 'All stock adjustments',
-    'search_product' => 'Search products for stock adjustment',
-    'adjustment_type' => 'Adjustment type',
-    'normal' => 'Normal',
-    'abnormal' => 'Abnormal',
-    'total_amount' => 'Total Amount',
-    'total_amount_recovered' => 'Total amount recovered',
-    'reason_for_stock_adjustment' => 'Reason',
-    'stock_adjustment_added_successfully' => 'Stock adjustment added successfully',
-    'search_products' => 'Search Products',
-    'delete_success' => 'Stock adjustment deleted successfully',
-    'view_details' => 'View stock adjustment details'
+    'stock_adjustment' => 'ষ্টক এডজাস্টমেন্ট',
+    'stock_adjustments' => 'ষ্টক এডজাস্টমেন্টস',
+    'list' => 'ষ্টক এডজাস্টমেন্ট লিস্ট',
+    'add' => 'ষ্টক এডজাস্টমেন্ট যোগ করুন',
+    'all_stock_adjustments' => 'সকল ষ্টক এডজাস্টমেন্ট',
+    'search_product' => 'ষ্টক এডজাস্টমেন্টের জন্য প্রোডাক্ট সার্চ করুন',
+    'adjustment_type' => 'এডজাস্টমেন্টের ধরন',
+    'normal' => 'নরমাল',
+    'abnormal' => 'এবনরমাল',
+    'total_amount' => 'মোট এমাউন্ট',
+    'total_amount_recovered' => 'মোট রিকভার্ড এমাউন্ট',
+    'reason_for_stock_adjustment' => 'কারন',
+    'stock_adjustment_added_successfully' => 'ষ্টক এডাজাস্টমেন্ট সফলভাবে যোগ করা হয়েছে',
+    'search_products' => 'প্রোডাক্ট সার্চ করুন',
+    'delete_success' => 'ষ্টক এডজাস্টমেন্ট সফলভাবে মুছে ফেলা হয়েছে',
+    'view_details' => 'ষ্টক এডজাস্টমেন্ট বিবরণ দেখুন'
 ];

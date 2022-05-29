@@ -63,7 +63,7 @@ return [
     'allow_purchase_different_currency' => 'অন্য মুদ্রায় ক্রয়সমূহ',
     'purchase_currency' => 'ক্রয় মুদ্রা',
     'p_exchange_rate' => 'কারেন্সি এক্সচেঞ্জ রেট',
-    'diff_purchase_currency_help' => 'Purchase currency is set to <strong> :currency </strong>',
+    'diff_purchase_currency_help' => 'ক্রয়ের জন্য নির্ধারিত মুদ্রা হলো <strong> :currency </strong>',
     'list_purchase' => 'ক্রয়ের লিস্ট',
     'attach_document' => 'ডকুমেন্ট সংযুক্ত করুন',
     'download_document' => 'ডকুমেন্ট ডাউনলোড করুন',
